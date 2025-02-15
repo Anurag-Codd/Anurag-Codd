@@ -23,38 +23,40 @@ I'm a passionate web developer with a background in Computer Science Engineering
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Personal Projects
+## 💡 Currently Working On
 
-### **[ChatApp](https://github.com/Anurag-StackDev/REALTIME-CHATAPP-PRJOECT)**
+### **[DevConnect]**
 
-<table>
-  <tr>
-    <td>
-      About
-A real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io.Features include instant messaging, user authentication and media sharing.<br><br>
-      <strong>Features:</strong><br>
-      - User Authentication<br>
-      - Real time messaging & image Sharing<br>
-      - Online & Offline Status
-    </td>
-  </tr>
-</table>
+I'm working on a web app called devConnect, a platform designed for developers to connect, collaborate, and engage with others worldwide. Developers can share what they’re working on, collaborate on projects, publish posts, request help, and assist fellow devs through chat or discussion threads.
 
----
+### 🔹 **Features** 
+-  👤 Developer Profiles
+   - Showcase skills, projects, and interests.  
+   - Follow and connect with other developers.  
 
-### **[E-Learning](https://github.com/Anurag-StackDev/LMS-PROJECT)**
+- 📝 Posts & Discussions
+  - Share updates on your work.  
+  - Engage with the community through likes, comments, and shares.  
 
-<table>
-  <tr>
-    <td>
-      The LMS enables instructors to create, price, and manage courses, while users can browse, enroll, and learn. With secure payment and a user-friendly design, it promotes accessible education online.<br><br>
-      <strong>Features:</strong><br>
-      - Admin Pannel<br>
-      - Product Categorization<br>
-      - Order History
-    </td>
-  </tr>
-</table>
+- 🤝 Collaboration Hub
+  - Find developers for project collaborations.  
+  - Post requests for open-source or freelance work.  
+
+- ❓ Q&A & Help Requests
+  - Ask coding questions and get help from the community.  
+  - Assist fellow developers by sharing knowledge.  
+
+- 💬 Real-Time Chat
+  - One-on-one and group messaging for easy collaboration.  
+  - Discuss ideas, projects, and coding challenges.  
+
+- 🛠 Tech Stack & Tools Integration  
+  - Share your favorite tools, frameworks, and technologies.  
+  - Potential integrations with GitHub, GitLab, and Stack Overflow.  
+
+- 🎟 Event & Hackathon Announcements 
+  - Stay updated on developer events, hackathons, and meetups.  
+  - Discover networking and learning opportunities.
 
  <!-- End Section -->
 <h3>Find me around the web 🌎</h3>
